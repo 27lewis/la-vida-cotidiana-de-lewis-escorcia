@@ -4,7 +4,7 @@
 }
 
 body{
-    background: whitesmoke;
+    background: #99f2c8;
     font-family: 'Times New Roman', Times, serif;
 
 }
@@ -16,17 +16,17 @@ body{
 }
 
 header{
-    background: rgb(68, 5, 5);
+    background: #1f4037;
     height: 100px;
     width: 100%;
     text-align: center;
     line-height: 100px;
     color: white;
-    border-bottom: 3px dashed black;
+    border: 1px solid black;
 }
 
 nav{
-    background: gray;
+    background: #3A6073;
     height: 50px;
     border-bottom: 1px solid black;
 }
@@ -59,6 +59,7 @@ nav ul li{
     border-bottom: 1px solid #eee;
 }
 
+
 .article{
     padding-top: 10px;
     border-bottom: 1px solid #eee;
@@ -78,8 +79,35 @@ footer{
     line-height: 50px;
 }
 
-image{
-    
-    width: 100px;
-    
+img{
+    width: 300px;
+    height: 300px;
+}
+
+video{
+    width: 300x;
+    height: 300px;
+}
+
+.TW {
+    width: 1000px;
+    height: 500px;
+}
+
+.YT {
+    width: 1000px;
+    height: 500px;
+}
+
+
+.IG {
+    width: 900px;
+    height: 200px;
+
+}
+
+
+.TK {
+    width: 450px;
+    height: 450px;
 }
