@@ -72,7 +72,7 @@ nav ul li{
 
 
 footer{
-    background: black;
+    background: #3A6073;
     color: white;
     text-align: center;
     height: 50px;
@@ -110,4 +110,29 @@ video{
 .TK {
     width: 450px;
     height: 450px;
+}
+
+.TL {
+    width: 400px;
+    height: 400px;
+}
+
+.DC {
+    width: 400px;
+    height: 400px;
+}
+
+.VYT {
+    width: 600px;
+    height: 600px;
+}
+
+.VCT {
+    width: 450px;
+    height: 450px;
+}
+
+.PC {
+    width: 350px;
+    height: 350px;
 }
